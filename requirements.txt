@@ -3,7 +3,6 @@ scikit-learn
 termcolor
 regex
 tqdm
-prettytable
 scipy
 nltk
 elasticsearch
